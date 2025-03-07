@@ -1,6 +1,6 @@
 # Hello there! 👋
 <br/>
-Hello, I am Ahmet Yıldız. I am 24 years old and I live in Istanbul. My passion for computers since my childhood is the driving force behind my decision to become a software developer. Pursuing this passion, I continuously strive to improve myself and be the best in my field.
+Hi, I am Ahmet. My passion for computers since my childhood is the driving force behind my decision to become a software developer. Pursuing this passion, I continuously strive to improve myself and be the best in my field.
 
 
 ## 🌐 Socials:
